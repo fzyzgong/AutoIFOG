@@ -2,3 +2,4 @@ hello git
 hello OG
 hello ubuntu
 hello ubuntu2
+i am machine
