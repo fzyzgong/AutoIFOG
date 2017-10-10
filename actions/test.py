@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # -*- coding: cp936 -*-
 #执行另外一个脚本
 import sys,os,subprocess,commands
@@ -52,3 +53,9 @@ if __name__ == '__main__':
 # if(__name__ == '__main__'):
 # 	foo()
 # 	foo1()
+=======
+def sayHello:
+	print 'hello world'
+
+sayHello()
+>>>>>>> 602fd5b6b01e09d348a271f68c8b0b5edf6986e8

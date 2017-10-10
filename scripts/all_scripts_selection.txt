@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
 /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
 /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
 /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+=======
+/home/fzyzgong/project/AutoIFOG/AutoIFOG/scripts/scripts/test2.py
+/home/fzyzgong/project/AutoIFOG/AutoIFOG/scripts/scripts/test1.py
+/home/fzyzgong/project/AutoIFOG/AutoIFOG/scripts/scripts/scripts111/test3.py
+>>>>>>> 602fd5b6b01e09d348a271f68c8b0b5edf6986e8
