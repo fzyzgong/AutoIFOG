@@ -1,0 +1,60 @@
+[2017-10-10 15:59:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
+[2017-10-10 15:59:54]>>  No exception in test2 method.
+[2017-10-10 15:59:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
+[2017-10-10 15:59:54]>>  No exception in test1 method.
+[2017-10-10 15:59:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
+[2017-10-10 15:59:54]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 15:59:54]>>  No exception in func2 method.
+[2017-10-10 15:59:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+[2017-10-10 15:59:54]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 15:59:54]>>  No exception in test3 method.
+[2017-10-10 16:06:10]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
+[2017-10-10 16:06:10]>>  No exception in test2 method.
+[2017-10-10 16:06:10]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
+[2017-10-10 16:06:10]>>  No exception in test1 method.
+[2017-10-10 16:06:10]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
+[2017-10-10 16:06:10]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:06:10]>>  No exception in func2 method.
+[2017-10-10 16:06:10]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+[2017-10-10 16:06:10]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:06:10]>>  No exception in test3 method.
+[2017-10-10 16:07:15]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
+[2017-10-10 16:07:15]>>  No exception in test2 method.
+[2017-10-10 16:07:15]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
+[2017-10-10 16:07:15]>>  No exception in test1 method.
+[2017-10-10 16:07:15]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
+[2017-10-10 16:07:15]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:07:15]>>  No exception in func2 method.
+[2017-10-10 16:07:15]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+[2017-10-10 16:07:15]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:07:15]>>  No exception in test3 method.
+[2017-10-10 16:07:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
+[2017-10-10 16:07:54]>>  No exception in test2 method.
+[2017-10-10 16:07:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
+[2017-10-10 16:07:54]>>  No exception in test1 method.
+[2017-10-10 16:07:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
+[2017-10-10 16:07:54]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:07:54]>>  No exception in func2 method.
+[2017-10-10 16:07:54]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+[2017-10-10 16:07:54]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:07:54]>>  No exception in test3 method.
+[2017-10-10 16:08:17]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
+[2017-10-10 16:08:17]>>  No exception in test2 method.
+[2017-10-10 16:08:17]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
+[2017-10-10 16:08:17]>>  No exception in test1 method.
+[2017-10-10 16:08:17]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
+[2017-10-10 16:08:17]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:08:17]>>  No exception in func2 method.
+[2017-10-10 16:08:17]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+[2017-10-10 16:08:17]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:08:17]>>  No exception in test3 method.
+[2017-10-10 16:22:48]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test2.py
+[2017-10-10 16:22:48]>>  No exception in test2 method.
+[2017-10-10 16:22:48]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test1.py
+[2017-10-10 16:22:48]>>  No exception in test1 method.
+[2017-10-10 16:22:48]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/test.py
+[2017-10-10 16:22:48]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:22:48]>>  No exception in func2 method.
+[2017-10-10 16:22:48]>>  execute_script: /home/fzyzgong/project/AutoIFOG/scripts/scripts/scripts111/test3.py
+[2017-10-10 16:22:48]>>  Exception in [_deco] integer division or modulo by zero
+[2017-10-10 16:22:48]>>  No exception in test3 method.
